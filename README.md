@@ -27,8 +27,87 @@ Just an ant in a giant digital colony, building software that helps systems work
 
 ### 🛠️ Tech Toolbox
 
-<p>
-Java • Spring Boot • Go • Angular • React • Kubernetes • Docker • Rancher • Ansible • WSO2 • Kong • Elasticsearch • Linux
+<p style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+  <!-- Java -->
+  <span style="display: inline-flex; align-items: center; gap: 4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" style="height: 20px; vertical-align: middle;">
+    Java
+  </span>
+  
+  <!-- Spring Boot -->
+  <span style="display: inline-flex; align-items: center; gap: 4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" style="height: 20px; vertical-align: middle;">
+    Spring Boot
+  </span>
+  
+  <!-- Go -->
+  <span style="display: inline-flex; align-items: center; gap: 4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" style="height: 20px; vertical-align: middle;">
+    Go
+  </span>
+  
+  <!-- Angular -->
+  <span style="display: inline-flex; align-items: center; gap: 4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" style="height: 20px; vertical-align: middle;">
+    Angular
+  </span>
+  
+  <!-- React -->
+  <span style="display: inline-flex; align-items: center; gap: 4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="height: 20px; vertical-align: middle;">
+    React
+  </span>
+  
+  <!-- Kubernetes -->
+  <span style="display: inline-flex; align-items: center; gap: 4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" style="height: 20px; vertical-align: middle;">
+    Kubernetes
+  </span>
+  
+  <!-- Docker -->
+  <span style="display: inline-flex; align-items: center; gap: 4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" style="height: 20px; vertical-align: middle;">
+    Docker
+  </span>
+  
+  <!-- Rancher -->
+  <span style="display: inline-flex; align-items: center; gap: 4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-original.svg" alt="Rancher" style="height: 20px; vertical-align: middle;">
+    Rancher
+  </span>
+  
+  <!-- Ansible -->
+  <span style="display: inline-flex; align-items: center; gap: 4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" style="height: 20px; vertical-align: middle;">
+    Ansible
+  </span>
+  
+  <!-- WSO2 (no official devicon, using a generic badge or placeholder) -->
+  <span style="display: inline-flex; align-items: center; gap: 4px;">
+    <img src="https://img.shields.io/badge/-WSO2-FF7300?style=flat&logo=wso2&logoColor=white" alt="WSO2" style="height: 20px; vertical-align: middle;">
+    WSO2
+  </span>
+  
+  <!-- Kong -->
+  <!-- Kong -->
+  <span style="display: inline-flex; align-items: center; gap: 4px;">
+    <img src="https://cdn.simpleicons.org/kong/003459" 
+         alt="Kong" 
+         style="height: 20px; vertical-align: middle;">
+    Kong
+  </span>
+  
+  <!-- Elasticsearch -->
+  <span style="display: inline-flex; align-items: center; gap: 4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" style="height: 20px; vertical-align: middle;">
+    Elasticsearch
+  </span>
+  
+  <!-- Linux -->
+  <span style="display: inline-flex; align-items: center; gap: 4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" style="height: 20px; vertical-align: middle;">
+    Linux
+  </span>
 </p>
 
 ### 🌱 Philosophy
