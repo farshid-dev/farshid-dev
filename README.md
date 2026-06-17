@@ -26,8 +26,7 @@ Just an ant in a giant digital colony, building software that helps systems work
 * AI-powered Applications
 
 ### 🛠️ Tech Toolbox
-
-<p style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+<p style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Java -->
   <span style="display: inline-flex; align-items: center; gap: 4px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" style="height: 20px; vertical-align: middle;">
@@ -87,8 +86,6 @@ Just an ant in a giant digital colony, building software that helps systems work
     <img src="https://img.shields.io/badge/-WSO2-FF7300?style=flat&logo=wso2&logoColor=white" alt="WSO2" style="height: 20px; vertical-align: middle;">
     WSO2
   </span>
-  
-  <!-- Kong -->
   <!-- Kong -->
   <span style="display: inline-flex; align-items: center; gap: 4px;">
     <img src="https://cdn.simpleicons.org/kong/003459" 
@@ -96,7 +93,7 @@ Just an ant in a giant digital colony, building software that helps systems work
          style="height: 20px; vertical-align: middle;">
     Kong
   </span>
-  
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Elasticsearch -->
   <span style="display: inline-flex; align-items: center; gap: 4px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" style="height: 20px; vertical-align: middle;">
