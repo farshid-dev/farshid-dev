@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamidreza Khalaj</h1>
+<h1 align="center">Hi, I'm Hamidreza Khalaj</h1>
 
 <h3 align="center">
 🐜 Ant Coder
