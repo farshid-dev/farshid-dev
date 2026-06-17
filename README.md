@@ -124,11 +124,11 @@ Just an ant in a giant digital colony, building software that helps systems work
 </a>
 <br>
 <!-- Email -->
-<a href="mailto:your-email@example.com" style="text-decoration: none; display: inline-flex; align-items: center; gap: 6px;">
+<a href="mailto:farshidkhalaj@gmail.com" style="text-decoration: none; display: inline-flex; align-items: center; gap: 6px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/20px-Gmail_icon_%282020%29.svg.png" 
        alt="Email" 
        style="vertical-align: middle; position: relative; top: 1px;">
-  your-email@example.com
+  farshidkhalaj@gmail.com
 </a>
 
 ---
