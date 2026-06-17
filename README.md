@@ -116,20 +116,16 @@ Just an ant in a giant digital colony, building software that helps systems work
 
 ### 📫 Connect With Me
 
-<a href="https://www.linkedin.com/in/hamidreza-khalaj/" style="text-decoration: none;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/20px-LinkedIn_logo_initials.png" 
        alt="LinkedIn" 
-       style="vertical-align: middle; margin-right: 6px; position: relative; top: 1px;">
-  in/hamidreza-khalaj/
-</a>
+       style="vertical-align: text-bottom; position: relative; top: 6px;">&nbsp;&nbsp;
+       <a href="https://www.linkedin.com/in/hamidreza-khalaj/" style="text-decoration: none; display: inline-block;">in/hamidreza-khalaj/</a>
 <br>
 <!-- Email -->
-<a href="mailto:farshidkhalaj@gmail.com" style="text-decoration: none; display: inline-flex; align-items: center; gap: 6px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/20px-Gmail_icon_%282020%29.svg.png" 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/20px-Gmail_icon_%282020%29.svg.png" 
        alt="Email" 
-       style="vertical-align: middle; position: relative; top: 1px;">
-  farshidkhalaj@gmail.com
-</a>
+       style="vertical-align: text-bottom; position: relative; top: 1px;">&nbsp;&nbsp;
+<a href="mailto:farshidkhalaj@gmail.com" style="text-decoration: none; display: inline-flex; align-items: center; gap: 6px;">farshidkhalaj@gmail.com</a>
 
 ---
 
